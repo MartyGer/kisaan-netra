@@ -1,3 +1,3 @@
 # kisaan-netra
 Weather Messaging Service!
-# Introduction :TODO
+# Introduction : This is a Weather messaging service for the farmers!
