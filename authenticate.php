@@ -3,7 +3,7 @@ session_start();
 // Change this to your connection info.
 $DATABASE_HOST = 'sql212.freecluster.eu';
 $DATABASE_USER = 'epiz_25041824';
-$DATABASE_PASS = 'maia!234maia!234';
+$DATABASE_PASS = 'XEXxRwaCxjJDO';
 $DATABASE_NAME = 'epiz_25041824_test';
 // Try and connect using the info above.
 $con = mysqli_connect($DATABASE_HOST, $DATABASE_USER, $DATABASE_PASS, $DATABASE_NAME);
